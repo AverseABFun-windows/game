@@ -44,4 +44,4 @@ if ($sim)
 }
 
 # Run (Simulator)
-& "$Env:PLAYDATE_SDK_PATH\bin\PlaydateSimulator.exe" "$pdx"
+"$Env:PLAYDATE_SDK_PATH\bin\PlaydateSimulator.exe" "$pdx"
